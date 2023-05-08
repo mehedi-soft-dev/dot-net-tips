@@ -6,3 +6,6 @@
 
 ### Partial Class
 <p>Organize your code with partial classes in C# and .NET! Splitting class definitions across multiple files can make it easier to work with large classes or allow multiple developers to work on different parts of the same class. #CSharp #dotnet #programming #codeorganization #partialclass</p>
+
+### Indexer
+<p>In C#, an indexer is a mechanism that allows instances of a class or struct to be indexed just like an array. Indexers are defined using the this keyword, followed by one or more parameters that specify the index of the element being accessed.</p>
