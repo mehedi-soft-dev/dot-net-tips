@@ -9,3 +9,8 @@
 
 ### Indexer
 <p>In C#, an indexer is a mechanism that allows instances of a class or struct to be indexed just like an array. Indexers are defined using the this keyword, followed by one or more parameters that specify the index of the element being accessed.</p>
+
+### Async/Await
+<p>Asynchronous programming can be challenging, but C# provides a powerful pattern to simplify it: `await/async`. This pattern allows you to write code that looks like synchronous code but is actually asynchronous under the hood.
+
+To use the `await/async` pattern, you mark a method as asynchronous using the `async` keyword, and then use the await keyword to wait for the completion of an asynchronous operation. The method execution is suspended while waiting for the operation to complete, but the application remains responsive and can continue processing other events.</p>
