@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethod", "Extensio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClass", "PartialClass\PartialClass.csproj", "{A9DB304C-0EB9-4DFC-9A02-4899BA967412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerExample", "IndexerExample\IndexerExample.csproj", "{E7131282-BB3A-4A93-B08C-4844267F5F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexerExample", "IndexerExample\IndexerExample.csproj", "{E7131282-BB3A-4A93-B08C-4844267F5F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitExample", "AsyncAwaitExample\AsyncAwaitExample.csproj", "{111A2642-E215-44C3-B3E7-0C307053D49C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E7131282-BB3A-4A93-B08C-4844267F5F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7131282-BB3A-4A93-B08C-4844267F5F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7131282-BB3A-4A93-B08C-4844267F5F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111A2642-E215-44C3-B3E7-0C307053D49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111A2642-E215-44C3-B3E7-0C307053D49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111A2642-E215-44C3-B3E7-0C307053D49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111A2642-E215-44C3-B3E7-0C307053D49C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
