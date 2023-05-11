@@ -17,3 +17,6 @@ To use the `await/async` pattern, you mark a method as asynchronous using the `a
 
 ### Pattern Matching Using Regex
 <p>Regular expressions, often called regex, provide a powerful and flexible way to match, search, and manipulate text using patterns. In C#, the System.Text.RegularExpressions namespace provides robust support for regular expressions.</p>
+
+### Generics
+<p>Generics in C# provide a powerful mechanism for creating reusable code that can work with different types while maintaining type safety at compile-time. They allow developers to define classes, interfaces, methods, and structures that can operate on various data types without sacrificing type checking.</p>
